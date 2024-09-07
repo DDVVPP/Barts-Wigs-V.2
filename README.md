@@ -2,13 +2,13 @@
 
 An e-commerce site where users can view and buy wigs.
 
-## Start
+<!-- ## Start
 
 `npm install`<br/>
 `npm run start`<br/>
 `localhost:8080`
 
-<!-- ### Deployed on Heroku
+### Deployed on Heroku
 
 <a href="https://grace-shopper-v2.herokuapp.com/"
 title="herokuapp"
